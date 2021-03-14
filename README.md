@@ -21,4 +21,4 @@ const LIULAN = {
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liulanz&layout=compact)](https://github.com/liulanz/github-readme-stats)
 
-[![liulan's GitHub stats](https://github-readme-stats.vercel.app/api?username=liulanz&theme=buefy)](https://github.com/liulanz/github-readme-stats)
+[![liulan's GitHub stats](https://github-readme-stats.vercel.app/api?username=liulanz&theme=buefy&line_height=17)](https://github.com/liulanz/github-readme-stats)
