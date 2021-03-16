@@ -13,11 +13,12 @@
 const LIULAN = {
   pronouns: "she" | "her",
   code: [C/C++, Python, React, HTML, CSS/Bootstrap, JavaScript, JSON, SQL, Java, C# ],
-  technologies: [Git/GitHub, Unix, Linux, MongoDB, Spark, Neo4j, Android Studio, Unity, Adobe Photoshop, Illustrator, Google Slides, Google Sheets, Google Docs, Trello Board, Semplice, Jira, Webflow, WordPress, DBT]
+  technologies: [Git/GitHub, Unix, Linux, MongoDB, Spark, Neo4j, Android Studio, Unity,Adobe Photoshop, Illustrator,
+    Google Slides, Google Sheets, Google Docs, Trello Board, Semplice, Jira, Webflow, WordPress, DBT]
 }
 ```
 
 <img align="right" alt="" width="200px" src="https://github.com/liulanz/liulanz/blob/main/guinea_pig.gif" />
 
 
-[![liulan's GitHub stats](https://github-readme-stats.vercel.app/api?username=liulanz&theme=algolia&line_height=17)](https://github.com/liulanz/github-readme-stats)
+[![liulan's GitHub stats](https://github-readme-stats.vercel.app/api?username=liulanz&theme=algolia)](https://github.com/liulanz/github-readme-stats)
