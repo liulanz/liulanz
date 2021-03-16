@@ -20,5 +20,4 @@ const LIULAN = {
 <img align="right" alt="" width="200px" src="https://github.com/liulanz/liulanz/blob/main/guinea_pig.gif" />
 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=liulanz&theme=algolia)
 [![liulan's GitHub stats](https://github-readme-stats.vercel.app/api?username=liulanz&theme=algolia&line_height=17)](https://github.com/liulanz/github-readme-stats)
