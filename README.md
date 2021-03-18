@@ -23,6 +23,6 @@ const LIULAN = {
 <img align="left" alt="https://github.com/liulanz/Instagram-Parse-App" width="150px" src="https://github.com/liulanz/Instagram-Parse-App/blob/master/demo/part2.gif" />
 <img align="left" alt="https://github.com/liulanz/Twitter-Client" width="150px" src="https://github.com/liulanz/Twitter-Client/blob/master/demo/part2.gif" />
 
-<img align="left" alt="https://junbinliang.github.io/Leetcode-TutorialBlog/#/" width="500px" src="./screenshot.png" />
+<img align="left" alt="https://junbinliang.github.io/Leetcode-TutorialBlog/#/" width="450px" src="./screenshot.png" />
 
 
