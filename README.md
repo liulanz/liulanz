@@ -19,10 +19,8 @@ const LIULAN = {
 
 [![liulan's GitHub stats](https://github-readme-stats.vercel.app/api?username=liulanz&theme=graywhite)](https://github.com/liulanz/github-readme-stats)
 
-
-<img align="left" alt="https://github.com/liulanz/Instagram-Parse-App" width="150px" src="https://github.com/liulanz/Instagram-Parse-App/blob/master/demo/part2.gif" />
-<img align="left" alt="https://github.com/liulanz/Twitter-Client" width="150px" src="https://github.com/liulanz/Twitter-Client/blob/master/demo/part2.gif" />
-
-<img align="left" alt="https://github.com/liulanz/Leetcode-TutorialBlog" width="450px" src="https://github.com/liulanz/liulanz/blob/main/screenshot.png" />
+![![](https://github.com/liulanz/Instagram-Parse-App/blob/master/demo/part2.gif=150x)](https://github.com/liulanz/Instagram-Parse-App)
+![![](https://github.com/liulanz/Twitter-Client/blob/master/demo/part2.gif=150x)](https://github.com/liulanz/Twitter-Clien)
+![![](https://github.com/liulanz/liulanz/blob/main/screenshot.png=450x)](https://junbinliang.github.io/Leetcode-TutorialBlog/#/)
 
 
