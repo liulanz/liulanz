@@ -20,7 +20,7 @@ const LIULAN = {
 [![liulan's GitHub stats](https://github-readme-stats.vercel.app/api?username=liulanz&theme=graywhite)](https://github.com/liulanz/github-readme-stats)
 
 
-[<img width=150px src="https://github.com/liulanz/Instagram-Parse-App/blob/master/demo/part2.gif">](https://github.com/liulanz/Instagram-Parse-App)
-[<img width=150px src="https://github.com/liulanz/Twitter-Client/blob/master/demo/part2.gif">](https://github.com/liulanz/Twitter-Client)
+[<img width=100px src="https://github.com/liulanz/Instagram-Parse-App/blob/master/demo/part2.gif">](https://github.com/liulanz/Instagram-Parse-App)
+[<img width=100px src="https://github.com/liulanz/Twitter-Client/blob/master/demo/part2.gif">](https://github.com/liulanz/Twitter-Client)
 [<img width=400px src="https://github.com/liulanz/liulanz/blob/main/screenshot.png">](https://junbinliang.github.io/Leetcode-TutorialBlog/#/)
 
