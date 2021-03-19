@@ -24,5 +24,5 @@ const LIULAN = {
 
 [<img width=100px src="https://github.com/liulanz/Instagram-Parse-App/blob/master/demo/part2.gif">](https://github.com/liulanz/Instagram-Parse-App)
 [<img width=100px src="https://github.com/liulanz/Twitter-Client/blob/master/demo/part2.gif">](https://github.com/liulanz/Twitter-Client)
-[<img width=400px src="https://github.com/liulanz/liulanz/blob/main/screenshot.png">](https://junbinliang.github.io/Leetcode-TutorialBlog/#/)
-
+[<img width=200px src="https://github.com/liulanz/liulanz/blob/main/screenshot.png">](https://junbinliang.github.io/Leetcode-TutorialBlog/#/)
+<img width=200px src="./demo3.gif">
