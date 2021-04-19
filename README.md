@@ -26,4 +26,4 @@ const LIULAN = {
 [<img width=100px src="https://github.com/liulanz/Instagram-Parse-App/blob/master/demo/part2.gif">](https://github.com/liulanz/Instagram-Parse-App)
 [<img width=100px src="https://github.com/liulanz/Twitter-Client/blob/master/demo/part2.gif">](https://github.com/liulanz/Twitter-Client)
 [<img width=400px src="./66codedemo.gif">](https://junbinliang.github.io/Leetcode-TutorialBlog/#/)
-[<img width=400px src="https://github.com/liulanz/Recycling-VR-Game-in-School-Hallway/blob/master/demos/game_demo.gif">](https://github.com/liulanz/Recycling-VR-Game-in-School-Hallway)
+[<img width=350px src="https://github.com/liulanz/Recycling-VR-Game-in-School-Hallway/blob/master/demos/demo.gif">](https://github.com/liulanz/Recycling-VR-Game-in-School-Hallway)
