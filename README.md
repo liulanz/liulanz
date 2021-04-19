@@ -16,7 +16,6 @@ const LIULAN = {
 
 <img align="right" alt="" width="200px" src="https://github.com/liulanz/liulanz/blob/main/guinea_pig.gif" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liulanz&layout=compact&theme=graywhite)
 
 <!---
 [![liulan's GitHub stats](https://github-readme-stats.vercel.app/api?username=liulanz&theme=graywhite)](https://github.com/liulanz/github-readme-stats)
