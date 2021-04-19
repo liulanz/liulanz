@@ -14,17 +14,20 @@ const LIULAN = {
 }
 ```
 
-<img align="right" alt="" width="300px" src="https://github.com/liulanz/liulanz/blob/main/guinea_pig.gif" />
+<img align="right" alt="" width="200px" src="https://github.com/liulanz/liulanz/blob/main/guinea_pig.gif" />
 
 
 <!---
 [![liulan's GitHub stats](https://github-readme-stats.vercel.app/api?username=liulanz&theme=graywhite)](https://github.com/liulanz/github-readme-stats)
 -->
+<br/>
+<br/>
+<br/>
 
 [<img width=100px src="https://github.com/liulanz/Flix/blob/master/gif_demo/flix_demo_portrait.gif">](https://github.com/liulanz/Flix)
 [<img width=100px src="https://github.com/liulanz/Instagram-Parse-App/blob/master/demo/part2.gif">](https://github.com/liulanz/Instagram-Parse-App)
 [<img width=100px src="https://github.com/liulanz/Twitter-Client/blob/master/demo/part2.gif">](https://github.com/liulanz/Twitter-Client)
-<br/>
+
 
 [<img width=400px src="./66codedemo.gif">](https://junbinliang.github.io/Leetcode-TutorialBlog/#/)
 [<img width=350px src="https://github.com/liulanz/Recycling-VR-Game-in-School-Hallway/blob/master/demos/demo.gif">](https://github.com/liulanz/Recycling-VR-Game-in-School-Hallway)
