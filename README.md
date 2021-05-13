@@ -29,5 +29,6 @@ const LIULAN = {
 [<img width=100px src="https://github.com/liulanz/Twitter-Client/blob/master/demo/part2.gif">](https://github.com/liulanz/Twitter-Client)
 
 
-[<img width=400px src="./66codedemo.gif">](https://junbinliang.github.io/Leetcode-TutorialBlog/#/)
-[<img width=350px src="https://github.com/liulanz/Recycling-VR-Game-in-School-Hallway/blob/master/demos/demo.gif">](https://github.com/liulanz/Recycling-VR-Game-in-School-Hallway)
+[<img width=250px src="./66codedemo.gif">](https://junbinliang.github.io/Leetcode-TutorialBlog/#/)
+[<img width=250px src="https://user-images.githubusercontent.com/37808313/118061454-f3992900-b362-11eb-8efe-f4d1a65f6ca6.gif">](https://ctp-anime-rec-system.herokuapp.com/)
+[<img width=250px src="https://github.com/liulanz/Recycling-VR-Game-in-School-Hallway/blob/master/demos/demo.gif">](https://github.com/liulanz/Recycling-VR-Game-in-School-Hallway)
