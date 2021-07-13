@@ -1,5 +1,5 @@
 
-## Hi, I'm [Liulan](https://www.linkedin.com/in/liulanzheng/)! <img src="https://user-images.githubusercontent.com/37808313/125494861-a7d90940-d38e-4012-9091-94369735bb9a.gif" width="100"><img align="right" alt="" width="200px" src="https://user-images.githubusercontent.com/37808313/125495193-05b0a2f6-c384-4a56-881c-eea2567d3004.gif" />
+## Hi, I'm [Liulan](https://www.linkedin.com/in/liulanzheng/)! <img src="https://user-images.githubusercontent.com/37808313/125494861-a7d90940-d38e-4012-9091-94369735bb9a.gif" width="100"><img align="right" alt="" width="250px" src="https://user-images.githubusercontent.com/37808313/125495193-05b0a2f6-c384-4a56-881c-eea2567d3004.gif" />
 
 
 ```javascript
@@ -13,7 +13,7 @@ const LIULAN = {
 }
 ```
 
-<img align="right" alt="" width="200px" src="https://github.com/liulanz/liulanz/blob/main/guinea_pig.gif" />
+<img align="right" alt="" width="350px" src="https://github.com/liulanz/liulanz/blob/main/guinea_pig.gif" />
 
 
 
@@ -25,5 +25,7 @@ const LIULAN = {
 
 
 [<img width=250px src="./66codedemo.gif">](https://junbinliang.github.io/Leetcode-TutorialBlog/#/)&nbsp;
+
 [<img width=250px src="https://user-images.githubusercontent.com/37808313/118061454-f3992900-b362-11eb-8efe-f4d1a65f6ca6.gif">](https://ctp-anime-rec-system.herokuapp.com/)&nbsp;
+
 [<img width=250px src="https://github.com/liulanz/Recycling-VR-Game-in-School-Hallway/blob/master/demos/demo.gif">](https://github.com/liulanz/Recycling-VR-Game-in-School-Hallway)
