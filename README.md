@@ -1,7 +1,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://user-images.githubusercontent.com/37808313/125497048-95638507-d739-43af-8cf0-f5f2f7f478d6.gif" width="200">
 
-## 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 [LIULAN](https://www.linkedin.com/in/liulanzheng/)
+# нι ι'м [ℓιυℓαη](https://www.linkedin.com/in/liulanzheng/)
 
 <img align="right" src="https://github.com/liulanz/liulanz/blob/main/guinea_pig.gif" width="230">
 
