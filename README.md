@@ -1,25 +1,22 @@
 
-## Hi, I'm [Liulan](https://www.linkedin.com/in/liulanzheng/)! <img src="https://user-images.githubusercontent.com/37808313/125494861-a7d90940-d38e-4012-9091-94369735bb9a.gif" width="100">
+## Hi, I'm [Liulan](https://www.linkedin.com/in/liulanzheng/)! <img src="https://user-images.githubusercontent.com/37808313/125494861-a7d90940-d38e-4012-9091-94369735bb9a.gif" width="100"><img align="right" alt="" width="200px" src="https://user-images.githubusercontent.com/37808313/125495193-05b0a2f6-c384-4a56-881c-eea2567d3004.gif" />
 
 
 ```javascript
 const LIULAN = {
   pronouns: "she" | "her",
   code: [C/C++, Python, React, HTML, CSS/Bootstrap, JavaScript, JSON, SQL, Java, C# ],
-  technologies: [Git/GitHub, Unix, Linux, MongoDB, Spark, Neo4j, Android Studio, Unity,Adobe Photoshop, Illustrator,
-    Google Slides, Google Sheets, Google Docs, Trello Board, Semplice, Jira, Webflow, WordPress, DBT]
+  technologies: [Git/GitHub, Unix, Linux, MongoDB, Spark, Neo4j,
+          Android Studio, Unity,Adobe Photoshop, Illustrator,
+          Google Slides, Google Sheets, Google Docs, Trello Board, 
+          Semplice, Jira, Webflow, WordPress, DBT]
 }
 ```
 
 <img align="right" alt="" width="200px" src="https://github.com/liulanz/liulanz/blob/main/guinea_pig.gif" />
 
 
-<!---
-[![liulan's GitHub stats](https://github-readme-stats.vercel.app/api?username=liulanz&theme=graywhite)](https://github.com/liulanz/github-readme-stats)
--->
-<br/>
-<br/>
-<br/>
+
 
 [<img width=100px src="https://github.com/liulanz/Flix/blob/master/gif_demo/flix_demo_portrait.gif">](https://github.com/liulanz/Flix)&nbsp;
 [<img width=100px src="https://github.com/liulanz/Instagram-Parse-App/blob/master/demo/part2.gif">](https://github.com/liulanz/Instagram-Parse-App)&nbsp;
