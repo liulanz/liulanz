@@ -3,7 +3,8 @@
 
 # нι ι'м [ℓιυℓαη](https://www.linkedin.com/in/liulanzheng/)
 
-<img align="right" src="https://github.com/liulanz/liulanz/blob/main/guinea_pig.gif" width="230">
+<!-- <img align="right" src="https://github.com/liulanz/liulanz/blob/main/guinea_pig.gif" width="230"> -->
+<img align ="right" src="https://user-images.githubusercontent.com/37808313/125531046-3af672b2-a8c7-4e7f-b2bd-8aa76b7f6384.png" width="400"> 
 
 ```javascript
 const LIULAN = {
