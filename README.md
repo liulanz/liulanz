@@ -1,5 +1,6 @@
 
-&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://user-images.githubusercontent.com/37808313/125497048-95638507-d739-43af-8cf0-f5f2f7f478d6.gif" width="200">
+&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://user-images.githubusercontent.com/37808313/125497048-95638507-d739-43af-8cf0-f5f2f7f478d6.gif" width="200"><img align ="right" src="https://user-images.githubusercontent.com/37808313/125542707-a463e7e1-bd87-44ff-a3de-35331ff9e6a0.jpg" width="400">
+
 <!-- <img align ="right" src="https://user-images.githubusercontent.com/37808313/125541542-5f5443e6-c910-487d-a002-c320df6b74ad.jpg" width="400">  -->
 
 # нι ι'м [ℓιυℓαη](https://www.linkedin.com/in/liulanzheng/)
