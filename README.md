@@ -1,6 +1,5 @@
 
-&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://user-images.githubusercontent.com/37808313/125497048-95638507-d739-43af-8cf0-f5f2f7f478d6.gif" width="200"><img align ="right" src="https://user-images.githubusercontent.com/37808313/125539841-12e8a731-4296-4a30-82b4-e2fa0031f590.png" width="400"> 
-
+&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://user-images.githubusercontent.com/37808313/125497048-95638507-d739-43af-8cf0-f5f2f7f478d6.gif" width="200"><img align ="right" src="https://user-images.githubusercontent.com/37808313/125541542-5f5443e6-c910-487d-a002-c320df6b74ad.jpg" width="400"> 
 
 # нι ι'м [ℓιυℓαη](https://www.linkedin.com/in/liulanzheng/)
 
@@ -17,7 +16,6 @@ const LIULAN = {
           Semplice, Jira, Webflow, WordPress, DBT]
 }
 ```
-
 
 
 <br/>
