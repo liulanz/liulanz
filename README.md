@@ -11,7 +11,7 @@
 ```javascript
 const LIULAN = {
   pronouns: "she" | "her",
-  code: [C/C++, Python, React, HTML, CSS/Bootstrap, JavaScript, JSON, SQL, Java, C# ],
+  code: [C/C++, Java, Python, React, HTML, CSS/Bootstrap, JavaScript, JSON, SQL, C# ],
   technologies: [Git/GitHub, Unix, Linux, MongoDB, Spark, Neo4j,
           Android Studio, Unity,Adobe Photoshop, Illustrator,
           Google Slides, Google Sheets, Google Docs, Trello Board, 
